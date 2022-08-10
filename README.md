@@ -25,3 +25,4 @@
 1. [LED Bulb Blink](https://github.com/Noobsiecoder/arduino-projects/tree/main/src/blink)
 2. [LED Bulb Fade](https://github.com/Noobsiecoder/arduino-projects/tree/main/src/fade)
 3. [Single lane Traffic Light system](https://github.com/Noobsiecoder/arduino-projects/tree/main/src/traffic-light)
+4. [8 Bit Manipulator](https://github.com/Noobsiecoder/arduino-projects/tree/main/src/8bit-manipulator)
